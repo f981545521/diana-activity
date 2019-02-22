@@ -7,7 +7,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 /**
  * @author youfang
  * @version [1.0.0, 2019-02-22 下午 01:50]
- * @since [天天健身/商品模块]
  **/
 @SpringBootApplication
 @MapperScan(basePackages = {"cn.acyou.diana.activity.mapper"})

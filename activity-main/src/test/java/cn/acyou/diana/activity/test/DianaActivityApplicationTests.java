@@ -10,7 +10,6 @@ import org.springframework.test.context.junit4.SpringRunner;
 /**
  * @author youfang
  * @version [1.0.0, 2019-02-22 下午 01:57]
- * @since [天天健身/商品模块]
  **/
 @RunWith(SpringRunner.class)
 @SpringBootTest

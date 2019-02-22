@@ -6,7 +6,6 @@ import java.util.Date;
 /**
  * @author youfang
  * @version [1.0.0, 2019-02-22 下午 01:55]
- * @since [天天健身/商品模块]
  **/
 public class Student implements Serializable {
 
