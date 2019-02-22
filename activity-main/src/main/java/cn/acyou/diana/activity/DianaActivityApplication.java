@@ -9,7 +9,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  * @version [1.0.0, 2019-02-22 下午 01:50]
  **/
 @SpringBootApplication
-@MapperScan(basePackages = {"cn.acyou.diana.activity.mapper"})
 public class DianaActivityApplication {
     public static void main(String[] args) {
         SpringApplication.run(DianaActivityApplication.class, args);
